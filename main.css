@@ -1,0 +1,38 @@
+.perdezh{
+    color: ##000080;
+    background-color: #FF00FF;
+}
+
+.karakatica{
+    color: #66CDAA;
+    background-color: 	#800080;
+}
+
+.bankomat{
+    color: pink;
+    background-color: 	#7FFFD4;
+}
+
+.daun{
+     color: white;
+    background-color: 	#FFFF00;
+}
+
+.loh{
+    color: white;
+    background-color: 	#9400D3;
+}
+
+.moloko{
+    color: white;
+    background-color: 	#8B4513;
+}
+
+.dalbaeb{
+    color: white;
+    background-color: #FF0000;
+}
+
+body{
+    background-image: url('img_1.png');
+}
